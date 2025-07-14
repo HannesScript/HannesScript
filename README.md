@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @HannesScript
-- 👀 I’m interested in Full-Stack development and Chess ♟
+- 👀 I’m interested in Full-Stack development, C++ and the Piano
 - 🌱 I’m currently learning nothing
 - 📫 How to reach me: mail@hannesscript.dev
-- 🌎 Website: [www.hannesscript.dev](https://www.hannesscript.dev/) and [www.cycoran.com](https://www.cycoran.com/)
-- 💻 Currently i'm developing: Aquainium <!--ERORR: Could not fetch data! Reading: fetch(src + 'HannesScript' + 'README.md')-->
-- 💞️ I’m looking to collaborate on <!-- ERORR: Could not fetch data! Reading: fetch(src + 'HannesScript' + 'README.md') -->
+- 🌎 Websites: [www.hannesscript.dev](https://www.hannesscript.dev/) and [www.cycoran.com](https://www.cycoran.com/)
+- 💻 Currently i'm developing: FlavourCouch and some of my private projects <!--ERORR: Could not fetch data! Reading: fetch(src + 'HannesScript' + 'README.md')-->
+- 💞️ I’m looking for collaborators on Aurora Simulator <!-- ERORR: Could not fetch data! Reading: fetch(src + 'HannesScript' + 'README.md') -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
