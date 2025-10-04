@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HannesScript
-- 👀 I’m interested in Full-Stack development, C++ and the Piano
-- 🌱 I’m currently learning a little bit of Wails and some GO
+- 👀 I’m interested in Full-Stack development, Rust, 8-Bit Computers (6502) and the Piano
+- 🌱 I’m currently learning Rust
 <!-- - 📫 How to reach me: mail@hannesscript.dev -->
 - 🌎 Websites: [www.hannesscript.dev](https://www.hannesscript.dev/) and [www.cycoran.com](https://www.cycoran.com/)
 - 💻 Currently i'm developing: Aurora Simulator <!--ERORR: Could not fetch data! Reading: fetch(src + 'HannesScript' + 'README.md')-->
