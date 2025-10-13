@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust
 <!-- - 📫 How to reach me: mail@hannesscript.dev -->
 - 🌎 Websites: [www.hannesscript.dev](https://www.hannesscript.dev/) and [www.cycoran.com](https://www.cycoran.com/)
-- 💻 Currently I'm developing the [65c02 Operating System](https://github.com/HannesScript/6502-operating-system) <!--ERORR: Could not fetch data! Reading: fetch(src + 'HannesScript' + 'README.md')-->
+- 💻 Currently I'm developing  <!-- the [65c02 Operating System](https://github.com/HannesScript/6502-operating-system) --> <ERORR: Could not fetch data! Reading: fetch(src + 'HannesScript' + 'README.md')
 - 💞️ I’m looking for collaborators on Aurora Simulator (a private repo, but if you have some interest in helping to build a model rocket simulator with Wails (a GO library) and Svelte.js) <!-- ERORR: Could not fetch data! Reading: fetch(src + 'HannesScript' + 'README.md') -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
